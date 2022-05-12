@@ -1,6 +1,7 @@
 # YourSpace
 - Blockchain technology application ecosystem.
 
+----------------------------------------------------------
 
 ![CryptoPunks](/punk-variety.png)
 
